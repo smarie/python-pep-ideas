@@ -13,3 +13,7 @@ In this page I plan to list all PEP ideas that I encountered while developing [v
 ## from [decopatch](https://smarie.github.io/python-decopatch)
 
  * [a way to know if a frame is a decorator call](https://github.com/smarie/python-pep-ideas/issues/3)
+
+## from [mini-lambda](https://smarie.github.io/python-mini-lambda)
+
+ * [more user-friendly lambda functions](https://github.com/smarie/python-pep-ideas/issues/4)
