@@ -9,3 +9,7 @@ In this page I plan to list all PEP ideas that I encountered while developing [v
 ## from [makefun](https://smarie.github.io/python-makefun)
 
  * [a better functools (more signature-preserving, and with more features)](https://github.com/smarie/python-pep-ideas/issues/2)
+
+## from [decopatch](https://smarie.github.io/python-decopatch)
+
+ * [a way to know if a frame is a decorator call](https://github.com/smarie/python-pep-ideas/issues/3)
