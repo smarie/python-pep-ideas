@@ -1,13 +1,11 @@
 # PEP ideas
 
-In this page I plan to list all PEP ideas that I encountered while developing [various python libraries](https://github.com/smarie/ALL_OF_THE_ABOVE#python).
+In this page I plan to list all PEP ideas that I encountered while developing [various python libraries](https://github.com/smarie/ALL_OF_THE_ABOVE#python). Each idea is then detailed in the [issues page](https://github.com/smarie/python-pep-ideas/issues) for discussion.
 
-### from `valid8` and `pyfields`
+## from [getversion](https://smarie.github.io/python-getversion/)
 
- * (to complete) the use case about multiple callback signature support, duck typing vs. `TypeError`. Proposal of an `InvalidArgSpecError` or `InvalidrgsError`.
+ * [an api to get the version of anything reliably](https://github.com/smarie/python-pep-ideas/issues)
 
-### from `pyfields`
+## from [makefun](https://smarie.github.io/python-makefun)
 
- * descriptors with only the `__set__` and not the `__get__`. That way attribute access could be extremely fast, while allowing for type and value validation. See https://github.com/smarie/python-pyfields/issues/18 
- * ability to override slots (see https://github.com/smarie/python-pyfields/issues/19)
- 
+ * [a better functools (more signature-preserving, and with more features)](https://github.com/smarie/python-pep-ideas/issues/2)
