@@ -22,11 +22,11 @@ In this page I plan to list all PEP ideas that I encountered while developing [v
 
 ### from  [`fprules`](https://smarie.github.io/python-fprules) 
 
- * [`make`-like file pattern rules](https://github.com/smarie/python-pep-ideas/issues/9)
+ * [Extend the `glob` tooling to create glob-based rules, similar to "file pattern rules" in `make`](https://github.com/smarie/python-pep-ideas/issues/9)
 
 ### from [`pyfields`](https://smarie.github.io/python-pyfields/)
 
- * [ability to override `__slots__` descriptors](https://github.com/smarie/python-pep-ideas/issues/5)
+ * [ability to override `__slots__` with custom descriptors, especially non-data](https://github.com/smarie/python-pep-ideas/issues/5)
 
  * [set-only descriptors (fast-get descriptors)](https://github.com/smarie/python-pep-ideas/issues/6)
  
@@ -34,4 +34,4 @@ In this page I plan to list all PEP ideas that I encountered while developing [v
 
 ### from [`valid8`](https://smarie.github.io/python-valid8/)
 
- * (and from [`pyfields`](https://smarie.github.io/python-pyfields/)) :  [duck-typing in callback usage patterns](https://github.com/smarie/python-pep-ideas/issues/10)
+ * (and from [`pyfields`](https://smarie.github.io/python-pyfields/)) :  [new `InvalidCallError` or `InvalidArgsError` subtype of `TypeError` to favour duck-typing compliant callbacks usage pattern ; and/or more robust signature inspection tools](https://github.com/smarie/python-pep-ideas/issues/10)
