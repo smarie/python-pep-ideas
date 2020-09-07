@@ -31,8 +31,3 @@ In this page I plan to list all PEP ideas that I encountered while developing [v
  * [set-only descriptors (fast-get descriptors)](https://github.com/smarie/python-pep-ideas/issues/6)
  
  * [possible bug with `super()` in combination with descriptor](https://github.com/smarie/python-pep-ideas/issues/7)
-
-## from  [`fprules`](https://smarie.github.io/python-fprules) 
-
- * Support `make`-like file pattern rules easily, to be used for example in build tools such as `doit`. This package is a demo of the concept, but it could be directly integrated to the `glob` package ? Or at least I would appreciate feedback :)
- 
