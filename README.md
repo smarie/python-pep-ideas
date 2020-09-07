@@ -4,7 +4,7 @@ In this page I plan to list all PEP ideas that I encountered while developing [v
 
 ### from [`getversion`](https://smarie.github.io/python-getversion/)
 
- * [an api to get the version of anything reliably](https://github.com/smarie/python-pep-ideas/issues)
+ * [an api to get the version of anything reliably](https://github.com/smarie/python-pep-ideas/issues/1)
 
 ### from [`makefun`](https://smarie.github.io/python-makefun)
 
@@ -32,6 +32,6 @@ In this page I plan to list all PEP ideas that I encountered while developing [v
  
  * [possible bug with `super()` in combination with descriptor](https://github.com/smarie/python-pep-ideas/issues/7)
 
-### from [valid8](https://smarie.github.io/python-valid8/)
+### from [`valid8`](https://smarie.github.io/python-valid8/)
 
  * (and from [`pyfields`](https://smarie.github.io/python-pyfields/)) :  [duck-typing in callback usage patterns](https://github.com/smarie/python-pep-ideas/issues/10)
