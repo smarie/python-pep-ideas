@@ -31,3 +31,7 @@ In this page I plan to list all PEP ideas that I encountered while developing [v
  * [set-only descriptors (fast-get descriptors)](https://github.com/smarie/python-pep-ideas/issues/6)
  
  * [possible bug with `super()` in combination with descriptor](https://github.com/smarie/python-pep-ideas/issues/7)
+
+### from [valid8](https://smarie.github.io/python-valid8/)
+
+ * (and from [`pyfields`](https://smarie.github.io/python-pyfields/)) :  [duck-typing in callback usage patterns](https://github.com/smarie/python-pep-ideas/issues/10)
